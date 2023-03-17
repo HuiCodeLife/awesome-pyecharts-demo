@@ -6,7 +6,7 @@ from pyecharts.options import *
 from pyecharts.globals import ThemeType
 
 # 读取数据
-f = open("1960-2019全球GDP数据.csv", "r", encoding="GB2312")
+f = open("1960-2019GDP.csv", "r", encoding="GB2312")
 data_lines = f.readlines()
 # 关闭文件
 f.close()
