@@ -67,4 +67,4 @@ timeline.add_schema(
     is_loop_play=False
 )
 # 绘图
-timeline.render("1960-2019全球GDP前8国家.html")
+timeline.render("index.html")
